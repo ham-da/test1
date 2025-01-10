@@ -1,1 +1,3 @@
-Hi this is Hamda.
+function getperson(namme,surname){
+print("Hamda");
+}
