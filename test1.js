@@ -1,4 +1,4 @@
-function  minusNumber(a,b){
-	return a-b;
+function  multiplyNumber(a,b){
+	return a*b;
 }
 
